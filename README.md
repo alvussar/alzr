@@ -10,7 +10,7 @@ Termux-ohmyzsh implements oh-my-zsh and [zsh-syntax-highlighting](https://github
 
 ## Install:
 ```shell
-sh -c "$(curl -fsSL https://github.com/alzr/termux-ohmyzsh/raw/master/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/alvussar/alzr/master/install.sh)"
 ```
 
 ## Change color scheme:
